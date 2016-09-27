@@ -1,3 +1,7 @@
 .b-pro-widget__open-button {
-  background-color: pink;
+/*   background-color: pink; */
+}
+
+.b-pro-widget__open-button:hover,
+.b-pro-widget__open-button:active {
 }
