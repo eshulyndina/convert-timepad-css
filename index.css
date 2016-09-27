@@ -1,5 +1,9 @@
 .b-pro-widget__open-button {
-/*   background-color: pink; */
+/*   background-color: blue; */
+  font-size: 20px;
+  padding: 0 24px;
+  line-height: 44px;
+  font-weight: 400;
 }
 
 .b-pro-widget__open-button:hover,
